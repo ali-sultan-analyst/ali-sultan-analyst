@@ -62,18 +62,14 @@ Turning raw data into meaningful insights and business decisions.
 
 ---
 
-<h2>📫 Connect With Me</h2>
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ali-sultan-44b57726a">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="45"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/ali-sultan-44b57726a">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ali.sultan20039@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
+  <a href="mailto:ali.sultan20039@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
+  </a>
 </p>

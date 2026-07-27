@@ -46,19 +46,9 @@ Turning raw data into meaningful insights and business decisions.
 
 | Project | Description | Tools | Links |
 | --- | --- | --- | --- |
-| **Salla Call Center Analysis** | Analyzed call center performance, customer service KPIs, and operational trends to identify improvement opportunities. | Power BI | [📂 View Project](#) |
-| **IMDb Data Scraping & Analysis** | Collected and analyzed movie data using web scraping techniques and built an interactive dashboard to explore ratings, genres, and trends. | Python • BeautifulSoup • Pandas • Power BI | [📂 View Project](#) |
-| **MISUO Sales Analysis** | Cleaned and transformed sales data to analyze revenue performance, product trends, and key business drivers. | Excel • Power Query • Pivot Tables | [📂 View Project](#) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ali-sultan-analyst&show_icons=true&theme=tokyonight" width="48%">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ali-sultan-analyst&layout=compact&theme=tokyonight" width="48%">
-</p>
+| **Salla Call Center Analysis** | Analyzed call center performance, customer service KPIs, and operational trends to identify improvement opportunities. | Power BI | [📂 View Project](https://github.com/ali-sultan-analyst/salla-call-center-project) |
+| **IMDb Movies Analysis** | Collected and analyzed movie data using web scraping techniques and built an interactive dashboard to explore ratings, genres, and trends. | Python • BeautifulSoup • Pandas • Power BI | [📂 View Project](https://github.com/ali-sultan-analyst/imdb-movies-project) |
+| **MISUO Sales Analysis** | Cleaned and transformed sales data to analyze revenue performance, product trends, and key business drivers. | Excel • Power Query • Pivot Tables | [📂 View Project](https://github.com/ali-sultan-analyst/MISUO-sales-project) |
 
 ---
 

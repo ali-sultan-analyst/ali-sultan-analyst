@@ -44,12 +44,12 @@ Turning raw data into meaningful insights and business decisions.
 
 ## 📂 Featured Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| Sales Dashboard | Interactive sales dashboard | Power BI • Excel |
-| Customer Churn Analysis | Customer behavior analysis | Python • Pandas |
-| SQL Data Exploration | SQL queries and insights | SQL |
-| HR Analytics | Employee performance dashboard | Power BI |
+| Project | Description | Tools | Links |
+|---------|-------------|-------|-------|
+
+| **Salla Call Center Analysis** | Analyzed call center performance, customer service KPIs, and operational trends to identify improvement opportunities. | Power BI | [📂 View Project](#) |
+| **IMDb Data Scraping & Analysis** | Collected and analyzed movie data using web scraping techniques, then built an interactive dashboard to explore ratings, genres, and trends. | Python • BeautifulSoup • Pandas • Power BI | [📂 View Project](#) |
+| **MISUO Sales Analysis** | Cleaned and transformed sales data to analyze revenue performance, product trends, and key business drivers. | Excel • Power Query • Pivot Tables | [📂 View Project](#) |
 
 ---
 
@@ -57,9 +57,9 @@ Turning raw data into meaningful insights and business decisions.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ali-sultan-analyst&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ali-sultan-analyst&layout=compact&theme=tokyonight"/>
 
 </p>
 

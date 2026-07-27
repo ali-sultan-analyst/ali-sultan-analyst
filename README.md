@@ -39,5 +39,5 @@
 ---
 
 ### 🤝 تواصل معي
-* 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/ali-sultan-44b57726a)
+* 💼 [LinkedIn](https://linkedin.com)
 * ✉️ ali.sultan20039@gmail.com
